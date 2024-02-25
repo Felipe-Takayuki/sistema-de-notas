@@ -1,4 +1,7 @@
-### Como rodar o programa? 
+### Instalação 
 
-#### cd sistema-de-notas
-#### dart main.dart
+```
+git clone https://github.com/Felipe-Takayuki/sistema-de-notas.git
+cd sistema-de-notas
+dart main.dart
+```
