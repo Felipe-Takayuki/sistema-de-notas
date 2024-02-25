@@ -1,6 +1,6 @@
 import 'dart:io';
 import 'constantes/constantes.dart';
-import 'model/aluno.dart';
+import 'modelo/aluno.dart';
 
 void main() {
   List<Aluno> alunos = [];
